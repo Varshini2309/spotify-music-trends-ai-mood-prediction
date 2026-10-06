@@ -333,3 +333,69 @@ A dedicated **drill-through page** provides detailed information about an indivi
 🔹 Interactive **mood and genre filters** allow users to explore specific segments of the dataset.
 
 🔹 **Drill-through navigation** enables detailed analysis of individual songs.
+
+---
+
+## 📁 Project Structure
+
+
+📦 spotify-music-trends-ai-mood-prediction
+│
+├── 📊 PowerBI
+│   └── Spotify_Music_Analysis.pbix
+│
+├── 🐍 Python
+│   └── spotify_analysis.py
+│
+├── 📂 Dataset
+│   └── spotify_mood_prediction.csv
+│
+├── 🖼️ Screenshots
+│   ├── home.png
+│   ├── music_trends.png
+│   ├── AI_mood_intelligence.png
+│   ├── Song_explorer.png
+│   └── Song_details.png
+│
+└── 📄 README.md
+
+---
+
+## ⚠️ Model Interpretation
+
+The Random Forest model achieved **100% classification accuracy** on the test dataset.
+
+However, this result should be interpreted in the context of how the mood labels were created.
+
+🎭 The mood categories were initially generated using a predefined rule based on **energy** and **valence**:
+
+- 🎉 **Happy** → High valence + High energy
+- ⚡ **Energetic** → Low valence + High energy
+- 😌 **Chill** → High valence + Low energy
+- 😢 **Sad** → Low valence + Low energy
+
+🤖 Since **energy** and **valence** were also included among the model features, the Random Forest model was able to learn this predefined classification framework very effectively.
+
+Therefore, the **100% accuracy demonstrates successful learning of the defined mood-labeling framework**, rather than claiming human-level emotion recognition.
+
+🎯 The model's prediction confidence is also calculated for every song and incorporated into the Power BI dashboard.
+
+---
+
+## 👩‍💻 Author
+
+### **Varshini A S**
+
+🎓 **B.Tech – Artificial Intelligence & Data Science**
+
+💼 Aspiring **Data Analyst | SQL | Power BI | Python**
+
+📊 Interested in **Data Analytics, Business Intelligence, Machine Learning, and Data Visualization**
+
+---
+
+### ⭐ If you found this project interesting
+
+Feel free to explore the repository and check out the interactive Power BI dashboard.
+
+⭐ **Star this repository** if you found it useful!
