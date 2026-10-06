@@ -11,13 +11,75 @@
 
 ## 📊 Dashboard Preview
 
+### 🏠 Spotify Music Intelligence
+
 <div align="center">
 
 <img src="Screenshots/home.png" width="900">
 
-### 🎵 Spotify Music Intelligence
+</div>
+
+The home page provides a high-level overview of the Spotify dataset, including key music metrics, AI-predicted mood distribution, genre popularity, and the relationship between energy and valence.
+
+---
+
+### 📈 Music Trends
+
+<div align="center">
+
+<img src="Screenshots/music_trends.png" width="900">
 
 </div>
+
+This page explores music trends across genres and audio characteristics, including energy, popularity, danceability, and AI-predicted mood.
+
+---
+
+### 🤖 AI Mood Intelligence
+
+<div align="center">
+
+<img src="Screenshots/ai_mood_intelligence.png" width="900">
+
+</div>
+
+This page analyzes the AI-predicted mood categories and their audio profiles, along with the overall prediction confidence of the machine learning model.
+
+---
+
+### 🔎 Song Explorer
+
+<div align="center">
+
+<img src="Screenshots/song_explorer.png" width="900">
+
+</div>
+
+The Song Explorer allows users to search and filter songs by AI-predicted mood and genre while viewing song-level information such as artist, popularity, and prediction confidence.
+
+---
+
+### 🎵 Song Details
+
+<div align="center">
+
+<img src="Screenshots/song_details.png" width="900">
+
+</div>
+
+The Song Details page provides a detailed view of an individual track using Power BI drill-through functionality.
+
+Users can explore:
+
+- 🎵 Song
+- 👤 Artist
+- 💿 Album
+- 🎼 Genre
+- ⭐ Popularity
+- ⚡ Energy
+- 💃 Danceability
+- 😊 Valence
+- 🎯 AI Prediction Confidence
 
 ---
 
