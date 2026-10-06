@@ -39,7 +39,7 @@ This page explores music trends across genres and audio characteristics, includi
 
 <div align="center">
 
-<img src="Screenshots/ai_mood_intelligence.png" width="900">
+<img src="Screenshots/AI_mood_intelligence.png" width="900">
 
 </div>
 
@@ -51,7 +51,7 @@ This page analyzes the AI-predicted mood categories and their audio profiles, al
 
 <div align="center">
 
-<img src="Screenshots/song_explorer.png" width="900">
+<img src="Screenshots/Song_explorer.png" width="900">
 
 </div>
 
@@ -63,7 +63,7 @@ The Song Explorer allows users to search and filter songs by AI-predicted mood a
 
 <div align="center">
 
-<img src="Screenshots/song_details.png" width="900">
+<img src="Screenshots/Song_details.png" width="900">
 
 </div>
 
