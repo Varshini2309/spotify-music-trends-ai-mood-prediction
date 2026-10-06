@@ -36,3 +36,61 @@
 🔹 Build an interactive **Power BI dashboard** for data exploration
 
 🔹 Enable **filters and drill-through navigation** for song-level analysis
+
+---
+
+## 🛠️ Technologies & Tools
+
+| 🧰 Technology | 💡 Purpose |
+|---|---|
+| 🐍 **Python** | Data preprocessing and analysis |
+| 🐼 **Pandas** | Data cleaning and manipulation |
+| 🤖 **Scikit-learn** | Machine Learning model development |
+| 🌲 **Random Forest** | Song mood classification |
+| 📊 **Power BI** | Interactive dashboard and visualization |
+| 📈 **DAX** | Power BI calculations and analytics |
+| 🗄️ **SQL** | Data querying and analytical concepts |
+| 📗 **Excel** | Dataset preparation and initial exploration |
+| 💻 **VS Code** | Python development environment |
+
+---
+
+## 📂 Dataset & Data Processing
+
+🎵 The project uses a Spotify tracks dataset containing information about songs, artists, genres, popularity, and audio features.
+
+### 📊 Dataset Statistics
+
+| 📌 Metric | 🔢 Value |
+|---|---:|
+| 🎵 Total Songs | **113,550** |
+| 🎼 Features | **20+** |
+| 🎧 Audio Features | **8+** |
+| 🎭 Predicted Mood Categories | **4** |
+
+### 🧹 Data Processing Workflow
+
+The dataset was processed using Python before being imported into Power BI.
+
+```text
+📥 Raw Spotify Dataset
+        ↓
+🧹 Data Cleaning
+        ↓
+🔍 Missing Value Handling
+        ↓
+♻️ Duplicate Removal
+        ↓
+📊 Exploratory Data Analysis
+        ↓
+🎭 Rule-Based Mood Labelling
+        ↓
+🤖 Random Forest Model
+        ↓
+🔮 Mood Prediction
+        ↓
+📈 Prediction Confidence
+        ↓
+📁 Processed Dataset
+        ↓
+📊 Power BI Dashboard
