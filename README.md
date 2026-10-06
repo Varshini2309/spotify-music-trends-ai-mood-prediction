@@ -94,3 +94,122 @@ The dataset was processed using Python before being imported into Power BI.
 📁 Processed Dataset
         ↓
 📊 Power BI Dashboard
+
+---
+
+## 🤖 AI-Based Song Mood Prediction
+
+The project uses a **Random Forest Classifier** to classify songs into four mood categories based on their Spotify audio characteristics.
+
+### 🎭 Mood Classification
+
+| 🎭 Mood | 🎵 Definition |
+|---|---|
+| 🎉 **Happy** | High valence + High energy |
+| ⚡ **Energetic** | Low valence + High energy |
+| 😌 **Chill** | High valence + Low energy |
+| 😢 **Sad** | Low valence + Low energy |
+
+### 🧠 Machine Learning Workflow
+
+```text
+🎵 Spotify Audio Features
+          ↓
+📊 Feature Selection
+          ↓
+✂️ Train / Test Split
+          ↓
+🌲 Random Forest Classifier
+          ↓
+🔮 Mood Prediction
+          ↓
+📈 Prediction Probability
+          ↓
+🎯 Prediction Confidence
+
+---
+
+## 📊 Power BI Dashboard
+
+The processed Spotify dataset was transformed into an interactive **Power BI dashboard** designed to provide both high-level music insights and detailed song-level exploration.
+
+### 🏠 1. Spotify Music Intelligence
+
+🎵 Provides an overall view of the Spotify dataset.
+
+**Key elements:**
+
+- 📌 Total Songs
+- ⭐ Average Popularity
+- ⚡ Average Energy
+- 💃 Average Danceability
+- 🎭 AI Predicted Mood Distribution
+- 🎼 Top Genres by Popularity
+- 📈 Energy vs Valence Mood Landscape
+
+---
+
+### 📈 2. Music Trends
+
+Explores relationships between Spotify audio features and music popularity.
+
+**Key analysis:**
+
+- 🎼 Genre-level Energy vs Popularity
+- ⚡ Average Popularity by Energy Level
+- 🎭 Average Energy by AI Predicted Mood
+- 💃 Average Danceability by AI Predicted Mood
+- 🔎 Genre and Mood Filters
+
+---
+
+### 🤖 3. AI Mood Intelligence
+
+Provides a deeper analysis of the AI-generated mood classifications.
+
+**Key elements:**
+
+- 🎯 Average AI Prediction Confidence
+- 🎭 Song Count by Predicted Mood
+- 🎧 AI Mood Audio Profile
+- ⚡ Energy Analysis
+- 💃 Danceability Analysis
+- 😊 Valence Analysis
+- 🎸 Acousticness Analysis
+
+---
+
+### 🔎 4. Song Explorer
+
+Allows users to explore individual songs interactively.
+
+**Features:**
+
+- 🎵 Song Name
+- 👤 Artist
+- 🎼 Genre
+- ⭐ Popularity
+- 🎭 AI Predicted Mood
+- 🎯 Prediction Confidence
+- 🔽 Mood Filter
+- 🔽 Genre Filter
+
+---
+
+### 🎵 5. Song Details
+
+A dedicated **drill-through page** provides detailed information about an individual song.
+
+**Song-level metrics include:**
+
+- 🎵 Song Name
+- 👤 Artist
+- 💿 Album
+- 🎼 Genre
+- ⭐ Popularity
+- ⚡ Energy
+- 💃 Danceability
+- 😊 Valence
+- 🎯 AI Prediction Confidence
+
+🔗 Users can select a song from **Song Explorer** and drill through to its detailed analysis.
