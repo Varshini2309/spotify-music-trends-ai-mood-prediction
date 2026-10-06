@@ -123,7 +123,6 @@ Users can explore:
 | 🌲 **Random Forest** | Song mood classification |
 | 📊 **Power BI** | Interactive dashboard and visualization |
 | 📈 **DAX** | Power BI calculations and analytics |
-| 🗄️ **SQL** | Data querying and analytical concepts |
 | 📗 **Excel** | Dataset preparation and initial exploration |
 | 💻 **VS Code** | Python development environment |
 
@@ -310,3 +309,27 @@ A dedicated **drill-through page** provides detailed information about an indivi
 - 🎯 AI Prediction Confidence
   
 🔗 Users can select a song from **Song Explorer** and drill through to its detailed analysis.
+
+---
+
+## 📈 Key Insights
+
+🔹 **113,550 songs** were analyzed after data cleaning and duplicate removal.
+
+🔹 The average **energy** across the dataset is approximately **0.64**.
+
+🔹 The average **danceability** is approximately **0.57**.
+
+🔹 The average **valence** is approximately **0.47**, indicating a broad range of positive and negative musical characteristics.
+
+🔹 **Happy** and **Energetic** are the most common AI-predicted mood categories.
+
+🔹 **Happy** songs generally have higher energy, danceability, and valence.
+
+🔹 **Chill** songs show higher acousticness and lower energy compared with high-energy mood categories.
+
+🔹 The dashboard provides an overall average **AI prediction confidence of approximately 99.7%**.
+
+🔹 Interactive **mood and genre filters** allow users to explore specific segments of the dataset.
+
+🔹 **Drill-through navigation** enables detailed analysis of individual songs.
