@@ -16,3 +16,23 @@
 🤖 A **Random Forest classification model** is used to predict song moods based on Spotify audio features such as **energy, valence, danceability, acousticness, instrumentalness, speechiness, liveness, and tempo**.
 
 📊 The processed data is then integrated into an interactive **Power BI dashboard** that allows users to explore music trends, analyze AI-predicted moods, filter songs by genre, and drill through to individual song details.
+
+---
+
+## 🎯 Project Objectives
+
+🔹 Analyze Spotify songs and identify **music trends and patterns**
+
+🔹 Explore relationships between **popularity, energy, danceability, and valence**
+
+🔹 Analyze music characteristics across different **genres**
+
+🔹 Develop an **AI-based song mood prediction system**
+
+🔹 Classify songs into **Happy, Energetic, Chill, and Sad** moods
+
+🔹 Calculate **prediction confidence** for each song
+
+🔹 Build an interactive **Power BI dashboard** for data exploration
+
+🔹 Enable **filters and drill-through navigation** for song-level analysis
