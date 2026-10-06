@@ -72,28 +72,47 @@
 
 The dataset was processed using Python before being imported into Power BI.
 
+📥 **Raw Spotify Dataset**
 
-📥 Raw Spotify Dataset
-        ↓
-🧹 Data Cleaning
-        ↓
-🔍 Missing Value Handling
-        ↓
-♻️ Duplicate Removal
-        ↓
-📊 Exploratory Data Analysis
-        ↓
-🎭 Rule-Based Mood Labelling
-        ↓
-🤖 Random Forest Model
-        ↓
-🔮 Mood Prediction
-        ↓
-📈 Prediction Confidence
-        ↓
-📁 Processed Dataset
-        ↓
-📊 Power BI Dashboard
+⬇️
+
+🧹 **Data Cleaning**
+
+⬇️
+
+🔍 **Missing Value Handling**
+
+⬇️
+
+♻️ **Duplicate Removal**
+
+⬇️
+
+📊 **Exploratory Data Analysis**
+
+⬇️
+
+🎭 **Rule-Based Mood Labelling**
+
+⬇️
+
+🤖 **Random Forest Model**
+
+⬇️
+
+🔮 **Mood Prediction**
+
+⬇️
+
+📈 **Prediction Confidence**
+
+⬇️
+
+📁 **Processed Dataset**
+
+⬇️
+
+📊 **Power BI Dashboard**
 
 ---
 
