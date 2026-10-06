@@ -9,6 +9,18 @@
 
 ---
 
+## 📊 Dashboard Preview
+
+<div align="center">
+
+<img src="Screenshots/home.png" width="900">
+
+### 🎵 Spotify Music Intelligence
+
+</div>
+
+---
+
 ## 📌 Project Overview
 
 🎵 **Spotify Music Trends & AI-Based Song Mood Prediction** is an end-to-end data analytics and machine learning project that combines **Python, Machine Learning, and Power BI** to analyze Spotify music data and uncover meaningful patterns in songs, genres, popularity, and audio characteristics.
