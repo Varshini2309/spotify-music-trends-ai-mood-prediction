@@ -72,7 +72,7 @@
 
 The dataset was processed using Python before being imported into Power BI.
 
-```text
+
 📥 Raw Spotify Dataset
         ↓
 🧹 Data Cleaning
@@ -112,7 +112,7 @@ The project uses a **Random Forest Classifier** to classify songs into four mood
 
 ### 🧠 Machine Learning Workflow
 
-```text
+
 🎵 Spotify Audio Features
           ↓
 📊 Feature Selection
