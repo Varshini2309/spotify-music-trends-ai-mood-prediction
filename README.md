@@ -338,7 +338,7 @@ A dedicated **drill-through page** provides detailed information about an indivi
 
 ## 📁 Project Structure
 
-`
+<pre>
 📦 spotify-music-trends-ai-mood-prediction
 │
 ├── 📊 PowerBI
@@ -358,6 +358,7 @@ A dedicated **drill-through page** provides detailed information about an indivi
 │   └── Song_details.png
 │
 └── 📄 README.md
+</pre>
 
 ---
 
